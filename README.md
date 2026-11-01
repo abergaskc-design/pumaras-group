@@ -1,4 +1,4 @@
-# Pumaras Group website
+# CPE Student Web
 
 This beginner project uses only HTML, CSS, and JavaScript. It does not use React, a database, Supabase, or SQL.
 
@@ -27,5 +27,7 @@ This is a learning demo. `localStorage` belongs to one browser on one device, so
 - `index.html` — the page shell and navigation.
 - `styles.css` — colors, layout, responsive styles, and page design.
 - `app.js` — page content, navigation, forms, and browser storage.
+- `ics.jpg` — the CPE Student Web header and footer logo.
+- `cdm.jpg` — the Colegio de Montalban browser tab icon.
 
-To change the business details, open `app.js` and edit the page text, email address, or starter service list near the top of the file.
+To change the site content, open `app.js` and edit the page text, contact email, or starter topic list near the top of the file.
